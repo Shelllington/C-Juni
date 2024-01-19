@@ -1,0 +1,22 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+//Part 1
+int num = 6;
+double decimal = 3.78;
+char letter = 'k';
+bool truth = false;
+
+//Part 2
+int num2 = 3;
+int sum = num + num2;
+int difference = num - num2
+int product = num * num2;
+int quotient = num / num2;
+
+//Part 3
+string first = "Krishang";
+string last = "Indaana";
+string full = first + " " + last;
+cout << "Full name: " << full << endl;
